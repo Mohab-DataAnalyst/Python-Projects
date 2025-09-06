@@ -2,6 +2,8 @@
 
 This repository serves as an index for all my Python-related projects.
 
+- [🛒 Self-Directed Walmart Retail Sales Analysis](https://github.com/Mohab-DataAnalyst/walmart-analysis)
+  - Part of Elevvo Internship, explores Walmart’s sales data to uncover key trends, seasonality, and performance insights at the store and department levels.
 - [💰 Economic Data Analysis](https://github.com/Mohab-DataAnalyst/economic-data-analysis)
   - Demonstrates how to retrieve, clean, analyze, and visualize economic data using the FRED API (Federal Reserve Economic Data).
 - [🏠 Airbnb Listings Analysis](https://github.com/Mohab-DataAnalyst/airbnb-listings-analysis)
